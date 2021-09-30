@@ -1,0 +1,12 @@
+expat
+libdrm
+libelf
+libva
+libvdpau
+libXfixes
+libxshmfence
+libXxf86vm
+llvm
+wayland
+xrandr
+zlib
