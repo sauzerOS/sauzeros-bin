@@ -1,0 +1,13 @@
+atk
+at-spi2-atk
+cairo
+fontconfig
+freetype-harfbuzz
+fribidi
+gdk-pixbuf
+glib
+libepoxy
+libxkbcommon
+libXi
+pango
+wayland
