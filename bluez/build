@@ -1,0 +1,3 @@
+#!/bin/sh -e
+:> nostrip
+cp -a * "$1/"
