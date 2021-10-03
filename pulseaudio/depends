@@ -1,0 +1,9 @@
+alsa-lib
+dbus
+gdbm
+glib
+libcap
+libsndfile
+libSM
+libxcb
+libXtst
