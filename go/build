@@ -1,6 +1,0 @@
-#!/bin/sh -e
-
-# Disable stripping of binaries
-# This breaks Go.
-:> nostrip
-cp -a * "$1/"
